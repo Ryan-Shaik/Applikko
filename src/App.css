@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+/* You can add global styles here if necessary */
+body {
+  font-family: 'Open Sans', sans-serif; /* Default font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8fafc; /* A light gray as a base background */
+}
+
